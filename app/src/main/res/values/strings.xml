@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Рафис Сафин</string>
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">Ух Шайтан! Угадал!</string>
+    <string name="play_more">Попробуешь еще?</string>
+    <string name="try_to_guess">  Угадаешь число? (1 &#8211; 100)  </string>
+    <string name="input_value">Вводи число:</string>
+    <string name="error">Не верно вводиш!!!</string>
+</resources>
